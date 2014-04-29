@@ -2,10 +2,10 @@
 
 - 学校入学申し込み
   - 授業
-    - St. George International
-    - kaplan
-    - OISE
+    - St. George International - (((45 + 33 * 180) * 2) + 4625 * 2) * 172 = 3,649,840 YEN
+    - kaplan - (7375. * 2 + 4885 * 2) * 172 = 4,217,440 YEN
   - 寮
+  - 保険
 - 航空機
 - passport 申請
 - イギリスの携帯
