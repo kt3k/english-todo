@@ -1,10 +1,16 @@
 # TODO
 
-- SGI 入学申し込み
+- 学校入学申し込み
   - 授業
+    - St. George International
+    - kaplan
+    - OISE
   - 寮
+- 航空機
 - passport 申請
 - イギリスの携帯
+- 失業保険
+- 国民健康保険
 - 日本の携帯
   - docomo
   - softbank
@@ -13,7 +19,6 @@
 - ガス
 - 水道
 - インターネット
-- 航空機
 - 持株会退会
 - 株売る
 - 登記簿書き換え
