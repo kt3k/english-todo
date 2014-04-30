@@ -53,6 +53,8 @@
 
 # DONE
 
+- stop newspaper - done
+
 - UK visa - 不要(6ヶ月以内の留学の場合) - done
 
 - passport 申請 - done
