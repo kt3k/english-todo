@@ -2,8 +2,15 @@
 
 - 学校入学申し込み
   - 授業
-    - St. George International - (((45 + 33 * 180) * 2) + (4625 + 5705)) * 172 = 3,835,600 YEN
+    - St. George International - http://www.stgeorges.co.uk/
+      - standard english course 1
+      - IELTS exam course 1
   - 寮
+    - The Stay Club Camden - http://www.stgeorges.co.uk/student-residences/the-stay-club-camden
+      - twin
+  - 日付を確定する
+  - total
+    - (((45 + 33 * 180) * 2) + (4625 + 5705)) * 172 = 3,835,600 YEN
 
 - 留学保険
 
@@ -33,7 +40,7 @@
 - インターネット
 
 - 持株会退会
-  - 野村口座開設待ち
+  - blocker: 野村口座開設
 
 - 株売る
   - 1100円で売る
