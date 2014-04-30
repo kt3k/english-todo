@@ -3,20 +3,23 @@
 - 学校入学申し込み
   - 授業
     - St. George International - (((45 + 33 * 180) * 2) + (4625 + 5705)) * 172 = 3,835,600 YEN
-    - kaplan - (7375. * 2 + 4885 * 2) * 172 = 4,217,440 YEN
   - 寮
-  - 保険
+
+- 留学保険
 
 - 航空券
   - 大韓航空
 
-- passport 受け取り 5/9
+- passport 受け取り - 5/9
 
 - 国民健康保険に切り替え
+  - blocker: 離職票
+
 - 失業保険
+  - blocker: 離職票
 
 - 日本の携帯
-  - docomo
+  - docomo - 番号保存
   - softbank
 
 - イギリスの携帯
@@ -42,6 +45,8 @@
 - 新聞解約
 
 # DONE
+
+- UK visa - 不要(6ヶ月以内の留学の場合) - done
 
 - passport 申請 - done
   - photo
