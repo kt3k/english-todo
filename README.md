@@ -1,6 +1,13 @@
 # TODO
 
 - 学校入学申し込み
+  - info@ にメールする。
+    - Hello,
+    - 入学考えてる (2人)
+    - 手続きって普通に online booking で良いの？
+    - 必要書類ってこれで会ってる？
+    - 6ヶ月の discount 無いの？
+    - Sincerely,
   - 授業
     - St. George International - http://www.stgeorges.co.uk/
       - standard english course 1
@@ -16,6 +23,8 @@
 
 - 航空券
   - 大韓航空
+
+- 離職票
 
 - passport 受け取り - 5/9
 
