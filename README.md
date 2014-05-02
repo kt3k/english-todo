@@ -20,11 +20,10 @@
       - twin
       - (£45 + £33 * 180 days) * 2 * 172 = ¥2,058,840 (very expensive!)
     - search with `london student accommodation` gives very good results!
-    - for example, http://www.accommodationforstudents.com/lookathouse.asp?id=96592
-      - looks great and cheaper almost million yen
-      - £260 * 26 weeks * 172 = ¥1,162,720
+    - maida vale, http://www.accommodationforstudents.com/lookathouse.asp?id=59435
+      - £213 * 26 weeks * 172 = ¥952,536
   - total (draft)
-    - 1776760 + 1162720 = ¥2,939,480
+    - 1776760 + 952536 = ¥2,729,296
   - 送金
 
 - 離職票
