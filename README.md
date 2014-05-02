@@ -1,6 +1,8 @@
 # TODO
 
 - 学校入学申し込み
+  - 日付を確定する
+    - 候補: 6/16 - 11/28 (24 weeks)
   - info@ にメールする。
     - Hello,
     - 入学考えてる (2人)
@@ -12,19 +14,29 @@
     - St. George International - http://www.stgeorges.co.uk/
       - standard english course 1
       - IELTS exam course 1
-  - 寮
+      - (£4625 + £5705) * 172 = ¥1,776,760
+  - 住居
     - The Stay Club Camden - http://www.stgeorges.co.uk/student-residences/the-stay-club-camden
       - twin
-  - 日付を確定する
-  - total
-    - (((45 + 33 * 180) * 2) + (4625 + 5705)) * 172 = 3,835,600 YEN
+      - (£45 + £33 * 180 days) * 2 * 172 = ¥2,058,840 (very expensive!)
+    - search with `london student accommodation` gives very good results!
+    - for example, http://www.accommodationforstudents.com/lookathouse.asp?id=96592
+      - looks great and cheaper almost million yen
+      - £260 * 26 weeks * 172 = ¥1,162,720
+  - total (draft)
+    - 1776760 + 1162720 = ¥2,939,480
+  - 送金
+
+- 離職票
+  - 待ち
+
+- 野村 ネット&コール 口座開設
+  - 待ち
 
 - 留学保険
 
 - 航空券
   - 大韓航空
-
-- 離職票
 
 - passport 受け取り - 5/9
 
@@ -35,34 +47,37 @@
   - blocker: 離職票
 
 - 日本の携帯
-  - docomo - 番号保存
+  - docomo - 番号保管
   - softbank
 
 - イギリスの携帯
-  - sim だけの奴
+  - sim だけのプラン
 
 - 銀行
 
-- 電気
-- ガス
-- 水道
-- インターネット
+- 電気ストップ
+
+- ガスストップ
+
+- 水道ストップ
+
+- インターネット解約
 
 - 持株会退会
   - blocker: 野村口座開設
 
-- 株売る
-  - 1100円で売る
+- 株移管
 
 - 登記簿書き換え
-  - 登記ってどうやるの？
 
 - 火災保険
-- 新聞解約
+
 
 # DONE
 
-- stop newspaper - done
+- resubmit 野村 ネット&コール 口座開設 - done
+
+- 新聞解約 - done
 
 - UK visa - 不要(6ヶ月以内の留学の場合) - done
 
