@@ -1,33 +1,22 @@
 # TODO
 
-- 学校入学申し込み
-  - 日付を確定する
-    - 候補: 6/16 - 11/28 (24 weeks)
-  - info@ にメールする。
-    - Hello,
-    - 入学考えてる (2人)
-    - 手続きって普通に online booking で良いの？
-    - 必要書類ってこれで会ってる？
-    - 6ヶ月の discount 無いの？
-    - Sincerely,
+- 入学
+  - school: St. George International - http://www.stgeorges.co.uk/
+  - first book request - SGI-01594 - done
   - 授業
-    - St. George International - http://www.stgeorges.co.uk/
-      - standard english course 1
-      - IELTS exam course 1
-      - (£4625 + £5705) * 172 = ¥1,776,760
+      - standard english course 20 weeks
+      - IELTS preparation course 20 weeks
+      - (£4355 + £5155) * 172 = ¥1,635,720
   - 住居
-    - The Stay Club Camden - http://www.stgeorges.co.uk/student-residences/the-stay-club-camden
-      - twin
-      - (£45 + £33 * 180 days) * 2 * 172 = ¥2,058,840 (very expensive!)
-    - search with `london student accommodation` gives very good results!
     - maida vale, http://www.accommodationforstudents.com/lookathouse.asp?id=59435
       - £213 * 26 weeks * 172 = ¥952,536
   - total (draft)
-    - 1776760 + 952536 = ¥2,729,296
+    - 1604760 + 952536 = ¥2,557,296
   - 送金
 
 - 離職票
   - 待ち
+  - 月曜催促
 
 - クレカ PIN reset
 
@@ -49,7 +38,7 @@
 
 - 日本の携帯
   - docomo - 番号保管
-  - softbank
+  - softbank - 番号保管
 
 - イギリスの携帯
   - sim だけのプラン
@@ -75,6 +64,9 @@
 
 
 # DONE
+
+- 日付を確定する - done
+  - 6/09 - 10/24 (20 weeks)
 
 - resubmit 野村 ネット&コール 口座開設 - done
 
