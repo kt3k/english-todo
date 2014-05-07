@@ -38,7 +38,11 @@
 
 - 国民健康保険に切り替え
   - blocker: 離職票
-  - place: city office (Koigakubo)
+  - place: city office
+
+- 国民年金に切り替え
+  - blocker: 離職票
+  - place: city offiece
 
 - 失業保険
   - blocker: 離職票
