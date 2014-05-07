@@ -2,19 +2,12 @@
 
 - 入学
   - school: St. George International - http://www.stgeorges.co.uk/
-  - 授業 - draft
+  - 授業 - draft - fixed
       - standard english course 20 weeks
       - IELTS preparation course 20 weeks
-      - (£4355 + £5155) * 172 = ¥1,635,720
-  - payment:
-    - IBAN NO: GB32HAND40516228859001
-    - SWIFT/BIC: HANDGB22
-    - value:
-      - £4355 for YH
-      - £5155 for YC
+      - (£4355 + £5155) * 172 = ¥1,635,720 - sent
+  - receive course letter
   - 住居
-    - maida vale, http://www.accommodationforstudents.com/lookathouse.asp?id=59435
-      - £213 * 26 weeks * 172 = ¥952,536
   - total (draft)
     - 1604760 + 952536 = ¥2,557,296
   - 送金
@@ -22,7 +15,7 @@
 - stop newspaper (again)
 
 - 離職票
-  - 水曜昼催促
+  - 水曜昼催促 - done
 
 - クレカ PIN reset
 
@@ -83,6 +76,13 @@
 
 
 # DONE
+- school
+  - fee payment: - done
+    - IBAN NO: GB32HAND40516228859001
+    - SWIFT/BIC: HANDGB22
+    - value:
+      - £4355 for YH
+      - £5155 for YC
 
 - SGI - first book request - SGI-01594 - thanks Julian! - done
 - 日付を確定する - done
