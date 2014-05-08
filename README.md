@@ -1,21 +1,20 @@
 # TODO
 
-- 入学
+- 学校
   - school: St. George International - http://www.stgeorges.co.uk/
-  - 授業 - draft - fixed
+  - 授業 - fixed
       - standard english course 20 weeks
       - IELTS preparation course 20 weeks
       - (£4355 + £5155) * 172 = ¥1,635,720 - sent
   - receive course letter
-  - 住居
   - total (draft)
     - 1604760 + 952536 = ¥2,557,296
   - 送金
 
-- stop newspaper (again)
+- 住居
 
 - 離職票
-  - 水曜昼催促 - done
+  - 催促 - done[0](5/7) done[1](5/8)
 
 - クレカ PIN reset
 
@@ -26,6 +25,11 @@
 
 - 航空券
   - 大韓航空
+
+- 登記簿書き換え
+  - 立川地方合同庁舎
+
+- 火災保険
 
 - passport 受け取り - 5/9
 
@@ -48,6 +52,13 @@
 - イギリスの携帯
   - sim だけのプラン
 
+- 持株会退会
+  - blocker: 野村口座開設
+  - send letter
+
+- 株移管
+  - online (nomura)
+
 - 銀行
 
 - 電気ストップ
@@ -61,18 +72,6 @@
 
 - インターネット解約
   - phone call?
-
-- 持株会退会
-  - blocker: 野村口座開設
-  - send letter
-
-- 株移管
-  - online (nomura)
-
-- 登記簿書き換え
-  - 府中法務局
-
-- 火災保険
 
 
 # DONE
