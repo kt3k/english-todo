@@ -1,22 +1,8 @@
 # TODO
 
-- 学校
-  - school: St. George International - http://www.stgeorges.co.uk/
-  - 授業 - fixed
-      - standard english course 20 weeks
-      - IELTS preparation course 20 weeks
-      - (£4355 + £5155) * 172 = ¥1,635,720 - sent
-  - receive course letter
-  - total (draft)
-    - 1604760 + 952536 = ¥2,557,296
-  - 送金
-
 - 住居
 
 - クレカ PIN reset
-
-- 野村 ネット&コール 口座開設
-  - 待ち
 
 - 留学保険
 
@@ -25,8 +11,10 @@
   - 戸籍集め
     - 父
       - 名古屋市
+        - とりあえず電話で聞く
     - 母
       - 石川県鳳至郡
+        - とりあえず電話で聞く
   - 除住民票
   - 固定資産評価証明書
 
@@ -48,11 +36,15 @@
 - イギリスの携帯
   - sim だけのプラン
 
+- 野村 ネット&コール 口座開設
+  - 待ち
+
 - 持株会退会
   - blocker: 野村口座開設
   - send letter
 
 - 株移管
+  - blocker: 野村口座開設
   - online (nomura)
 
 - 銀行
@@ -71,6 +63,15 @@
 
 
 # DONE
+
+- 学校
+  - school: St. George International - http://www.stgeorges.co.uk/
+  - 授業 - fixed
+      - standard english course 20 weeks
+      - IELTS preparation course 20 weeks
+      - £4,355 + £5,155 = £9,510 - sent
+  - receive course letter - done
+  - 送金 - done
 
 - passport 受け取り - 5/9 - done
 
