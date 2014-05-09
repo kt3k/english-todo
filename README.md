@@ -13,9 +13,6 @@
 
 - 住居
 
-- 離職票
-  - 催促 - done[0](5/7) done[1](5/8)
-
 - クレカ PIN reset
 
 - 野村 ネット&コール 口座開設
@@ -23,26 +20,25 @@
 
 - 留学保険
 
-- 航空券
-  - 大韓航空
-
 - 登記簿書き換え
-  - 立川地方合同庁舎
+  - 立川地方合同庁舎 相談 - done
+  - 戸籍集め
+    - 父
+      - 名古屋市
+    - 母
+      - 石川県鳳至郡
+  - 除住民票
+  - 固定資産評価証明書
 
 - 火災保険
 
-- passport 受け取り - 5/9
-
 - 国民健康保険に切り替え
-  - blocker: 離職票
   - place: city office
 
 - 国民年金に切り替え
-  - blocker: 離職票
   - place: city offiece
 
 - 失業保険
-  - blocker: 離職票
   - place: Tachikawa HW
 
 - 日本の携帯
@@ -75,6 +71,15 @@
 
 
 # DONE
+
+- passport 受け取り - 5/9 - done
+
+- 離職票
+  - 催促 - done*0*(5/7) done*1*(5/8) - done
+
+- 航空券
+  - 大韓航空 - from 6/4 to 11/27 - done
+
 - school
   - fee payment: - done
     - IBAN NO: GB32HAND40516228859001
