@@ -1,7 +1,6 @@
 # TODO
 
 - 住居
-  - yunmi
 
 - クレカ PIN reset
   - やり方調査
