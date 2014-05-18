@@ -127,6 +127,10 @@
   - どうやって金を持って行く？
   - citibank 口座作る
 
+- rina に送金する方法
+
+- paypal 本人確認
+
 - 電気ストップ
   - phone call
 
