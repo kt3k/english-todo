@@ -13,7 +13,13 @@
 - 留学保険
   - 比較
     - AIU 海外旅行保険 http://www.aiu.co.jp/travel/price/plan/study-price.html
-      - ¥85,200
+      - ¥85,200 - ¥118,830 (6ヶ月)
+    - JI傷害火災 http://www.aienu.com/ryu/index_ji_1y.htm
+      - ¥66,660 - ¥77,890 (6ヶ月)
+    - 日本興亜損保 http://www.aienu.com/ryu/index%5Fkoa.htm
+      - ¥42,570 - ¥60,260 (6ヶ月) (最安は治療100万のみ)
+    - 東京海上日動 - http://www.aienu.com/ryu/index%5Ftk.htm
+      - ¥53,360 - ¥66,310 (6ヶ月) (最安は治療100万のみ)
 
 - 電源関連
   - 変換機 +1 個ぐらい用意
