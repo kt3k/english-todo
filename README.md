@@ -4,7 +4,7 @@
 
 - 住居
   - 進捗確認
-    - Paddington £190/w
+    - Paddington £180/w
     - Pimlico £240/w
 
 - クレカ PIN 参照
