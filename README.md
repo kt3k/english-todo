@@ -4,7 +4,9 @@
 
 - 住居
   - 進捗確認
-    - King's Cross
+    - Vauxhall £240/w
+    - Paddington £190/w
+    - Pimlico £205/w
 
 - クレカ PIN 参照
   - 郵送請求 - done
