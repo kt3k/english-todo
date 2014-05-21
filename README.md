@@ -128,7 +128,7 @@
 
 - 株移管
   - blocker: 持株会退会(処理待ち)
-  - 催促メール
+    - 催促メール - done
   - online (nomura)
 
 - NISA 申し込み
