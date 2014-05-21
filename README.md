@@ -4,10 +4,11 @@
 
 - 住居
   - 進捗確認
-    - Paddington £180/w
+    - Paddington share £180/w
       - 同居人確認中
-    - Pimlico £205/w
-    - Vauxhall £240/w
+    - Pimlico  share £205/w
+    - Vauxhall share £240/w
+    - Borough en-suite £170/w
 
 - クレカ PIN 参照
   - 郵送請求 - done
