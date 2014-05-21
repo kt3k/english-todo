@@ -20,11 +20,7 @@
       - ¥42,570 - ¥60,260 (6ヶ月) (最安は治療100万のみ)
     - 東京海上日動 - http://www.aienu.com/ryu/index%5Ftk.htm
       - ¥53,360 - ¥66,310 (6ヶ月) (最安は治療100万のみ)
-
-- 電源関連
-  - 変換機 +1 個ぐらい用意
-  - 230V でも分岐出来るタップ
-  - macbook の AC adapter の UK 型の先っぽ
+  - 日本興亜の高めの奴？
 
 ## 各種挨拶
 
@@ -35,6 +31,8 @@
 - 管理事務所の人
 
 ## Cell phone
+
+- 空港で three の prepaid sim 買う
 
 - 日本の携帯
   - docomo - 番号保管
@@ -92,19 +90,15 @@
       - 返信用封筒 + 切手
       - 本人確認書類
 
-- 戸籍付票
-  - https://ja.wikipedia.org/wiki/%E6%88%B8%E7%B1%8D%E3%81%AE%E9%99%84%E7%A5%A8
-  - 国分寺市
-
 - 固定資産評価証明書
   - フォーマット入手 - done
   - 記入
     - 地番等調べる
+      - 固定資産税の請求書から調べる？
   - 国分寺市
 
 - 登記簿書き換え
   - blocker: 出生から死亡までの連続した戸籍
-  - blocker: 戸籍付票
   - blocker: 固定資産評価証明書
   - 申請書作成
     - まず登記の対象になっているものの識別情報が分からないので調査する。
@@ -136,7 +130,7 @@
   - online (nomura)
 
 - NISA 申し込み
-  - 住民票
+  - 住民票 - done
     - 国分寺市
   - 郵送
 
@@ -147,7 +141,7 @@
 
 - paypal 本人確認
   - 住基カードスキャン - done
-  - application
+  - apply
 
 - 電気ストップ
   - phone call
@@ -162,6 +156,15 @@
   - phone call?
 
 # DONE
+
+- 戸籍付票 - done
+  - https://ja.wikipedia.org/wiki/%E6%88%B8%E7%B1%8D%E3%81%AE%E9%99%84%E7%A5%A8
+  - 国分寺市
+
+- 電源関連
+  - AC plug 変換機 UK 用 1~2個 - done
+  - 230V でも分岐出来るタップ - done
+  - macbook の AC adapter の UK 型の先っぽ - pending
 
 - rina に送金する方法
   - とりあえず新生に口座作っておいてある程度振り込んでおけば ok ぽい
