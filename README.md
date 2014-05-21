@@ -4,9 +4,10 @@
 
 - 住居
   - 進捗確認
-    - Paddington £180/w - deal! - done
-  - 契約
-    - 送金方法等
+    - Paddington £180/w
+      - 同居人確認中
+    - Pimlico £205/w
+    - Vauxhall £240/w
 
 - クレカ PIN 参照
   - 郵送請求 - done
