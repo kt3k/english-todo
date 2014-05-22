@@ -4,15 +4,17 @@
 
 ### 衣類
 
+- 適当に
+
 ### 衣類以外
 
 - 本
   - grammar in use (1, 2)
 
-- macbook air + AC adaptor
-
-- iPad mini
-- iPod touch + earphone
+- computers
+  - macbook air + AC adaptor
+  - iPad mini
+  - iPod touch + earphone
 
 - 電源類
 
@@ -139,14 +141,6 @@
 - e-learning
   - ログインする
 
-## Stock
-
-- 株移管
-  - blocker: 持株会退会(処理待ち)
-    - 催促メール - done
-  - 株移管 - 6上旬
-  - 端数売却 - 6/25
-
 ## Life
 
 - 新生銀行 - ネットバンキングログイン
@@ -169,6 +163,12 @@
   - phone call?
 
 # DONE
+
+- 株移管 - pending
+  - blocker: 持株会退会(処理待ち)
+    - 催促メール - done
+  - 株移管 - 6上旬
+  - 端数売却 - 6/25
 
 - NISA 申し込み
   - 住民票 - done
