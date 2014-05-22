@@ -67,6 +67,8 @@
   - softbank - 番号保管
 
 - sim free iPhone 5c 1台買う
+  - ポチる
+  - 受け取る
 
 ## 自宅整理
 
@@ -84,6 +86,37 @@
 - 自宅のポスト封じる
   - 管理事務所に連絡しに行く
   - お菓子持ってく
+
+## SGI
+
+- 文法テスト
+  - 印刷
+  - YH
+  - YC
+
+- e-learning
+  - ログインする
+
+## Life
+
+- 新生銀行 - ネットバンキングログイン
+  - 案内の郵送待ち
+
+- paypal 本人確認
+  - 住基カードスキャン - done
+  - apply
+
+- 電気ストップ
+  - phone call
+
+- ガスストップ
+  - phone call
+
+- 水道ストップ
+  - phone call
+
+- インターネット解約
+  - phone call?
 
 ## 登記関連(多分間に合わない)
 
@@ -130,37 +163,6 @@
 
 - 火災保険
   - blocker: 登記
-
-## SGI
-
-- 文法テスト
-  - 印刷
-  - YH
-  - YC
-
-- e-learning
-  - ログインする
-
-## Life
-
-- 新生銀行 - ネットバンキングログイン
-  - 案内の郵送待ち
-
-- paypal 本人確認
-  - 住基カードスキャン - done
-  - apply
-
-- 電気ストップ
-  - phone call
-
-- ガスストップ
-  - phone call
-
-- 水道ストップ
-  - phone call
-
-- インターネット解約
-  - phone call?
 
 # DONE
 
