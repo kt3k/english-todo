@@ -1,6 +1,24 @@
 # TODO
 
-## 荷物準備
+## 手荷物準備
+
+### 衣類
+
+### 衣類以外
+
+- 本
+  - grammar in use (1, 2)
+
+- macbook air + AC adaptor
+
+- iPad mini
+- iPod touch + earphone
+
+- 電源類
+
+- passport
+- SGI certificates
+- itinerary
 
 ## 生活
 
@@ -8,6 +26,7 @@
   - 進捗確認
     - Paddington share £180/w
       - 同居人確認中
+      - 期間を短くする交渉
     - Pimlico  share £205/w
     - Vauxhall share £240/w
     - Borough en-suite £170/w - 見送り
@@ -58,6 +77,7 @@
     - 千晶さん
     - 梶田さん
     - 徳光さん
+      - お土産買う
 
 - 自宅のポスト封じる
   - 管理事務所に連絡しに行く
@@ -77,7 +97,7 @@
       - 返信用封筒作成 - done
       - 請求用封筒作成 - done
     - 交付待ち
-  - 青森県
+  - 青森県(日野澤喜由)
     - blacker: 北海道八雲町戸籍
     - 郵送申請
       - フォーマットDL & print
@@ -129,8 +149,8 @@
 
 ## Life
 
-- 新生銀行
-  - ネットバンキングログイン
+- 新生銀行 - ネットバンキングログイン
+  - 案内の郵送待ち
 
 - paypal 本人確認
   - 住基カードスキャン - done
