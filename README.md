@@ -34,10 +34,6 @@
     - Borough en-suite £170/w - 見送り
       - deposit
 
-- クレカ PIN 参照
-  - 郵送請求 - done
-  - 発送待ち
-
 - 留学保険
   - 比較
     - AIU 海外旅行保険 http://www.aiu.co.jp/travel/price/plan/study-price.html
@@ -165,6 +161,10 @@
   - blocker: 登記
 
 # DONE
+
+- クレカ PIN 参照
+  - 郵送請求 - done
+  - 発送待ち - done
 
 - 株移管 - pending
   - blocker: 持株会退会(処理待ち)
