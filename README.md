@@ -22,9 +22,12 @@
 - SGI certificates
 - itinerary
 
-## 生活
+## accommodation
 
-- 住居
+- narita accommodation
+  - 予約する
+
+- london accommodation
   - 進捗確認
     - Paddington share £180/w
       - 同居人確認中
@@ -33,6 +36,8 @@
     - Vauxhall share £240/w
     - Borough en-suite £170/w - 確定
       - deposit
+
+## insurance
 
 - 留学保険
   - 比較
@@ -61,10 +66,6 @@
 - 日本の携帯
   - docomo - 番号保管
   - softbank - 番号保管
-
-- sim free iPhone 5c 1台買う
-  - 銀座
-  - 受け取る
 
 ## 自宅整理
 
@@ -153,6 +154,9 @@
   - blocker: 登記
 
 # DONE
+
+- sim free iPhone 5c 1台買う - done
+  - 銀座
 
 - 転送届け
   - 転送先を決める - done
