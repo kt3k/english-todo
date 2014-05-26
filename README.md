@@ -10,6 +10,7 @@
 
 - 本
   - grammar in use (1, 2)
+  - nokia photoshop 本
 
 - computers
   - macbook air + AC adaptor
@@ -25,17 +26,8 @@
 ## accommodation
 
 - narita accommodation
+  - expedia
   - 予約する
-
-- london accommodation
-  - 進捗確認
-    - Paddington share £180/w
-      - 同居人確認中
-      - 期間を短くする交渉
-    - Pimlico  share £205/w
-    - Vauxhall share £240/w
-    - Borough en-suite £170/w - 確定
-      - deposit
 
 ## insurance
 
@@ -80,8 +72,9 @@
 
 - 文法テスト
   - 印刷 - done
-  - YH
-  - YC
+  - YH - done
+  - YC - done
+  - send to SGI
 
 - e-learning
   - ログインする
@@ -120,10 +113,9 @@
 - 登記簿書き換え
   - blocker: 固定資産評価証明書
   - 申請書作成
-    - まず登記の対象になっているものの識別情報が分からないので調査する。
-    - 家屋
+    - まず登記の対象になっているものの識別情報が分からないので調査する。 - 固定資産税の請求書に全部書いてる - done
     - 家族関係説明図
-  - 登記申請
+  - 登記申請 - pending
     - 相続(日野澤喜由)
     - 相続(日野澤八惠子)
     - 抵当権抹消
@@ -132,6 +124,11 @@
   - blocker: 登記
 
 # DONE
+
+- london accommodation - done
+  - 進捗確認
+    - Borough en-suite £170/w - 確定
+      - deposit
 
 - sim free iPhone 5c 1台買う - done
   - 銀座
