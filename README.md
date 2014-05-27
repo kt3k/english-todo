@@ -24,6 +24,13 @@
 - itinerary - e-ticket
   - 印刷
 
+## 5/27
+
+- note 買う
+- ボールペン買う
+- お土産(管理事務所向け)買う
+- narita accommodataion 予約
+
 ## accommodation
 
 - narita accommodation
@@ -52,21 +59,11 @@
 
 - 管理事務所の人
 
-## Cell phone
-
-- 空港で three の prepaid sim 買う
-
-- 日本の携帯
-  - docomo - 番号保管
-  - softbank - 番号保管
-
 ## 自宅整理
-
-- 海外移転届け
-  - 国分寺市
 
 - 自宅のポスト封じる
   - 管理事務所に連絡しに行く
+  - お菓子買う
   - お菓子持ってく
 
 ## SGI
@@ -81,10 +78,6 @@
   - ログインする
 
 ## Life
-
-- 新生銀行 - ネットバンキングログイン
-  - 案内の郵送待ち - done
-  - ログインする
 
 - paypal 本人確認
   - 住基カードスキャン - done
@@ -102,7 +95,31 @@
 - インターネット解約
   - phone call?
 
+# TODO on Narita airport
+
+- docomo 番号保管
+- softbank 番号保管
+
+# TODO on Heathrow airport
+
+- To buy prepaid sim of Three.
+
 # DONE
+
+- 海外移転届け - done
+  - 国分寺市
+
+- 空港で three の prepaid sim 買う - done
+
+- 日本の携帯
+  - docomo - 番号保管
+    - 当日しか出来ない -> 空港でやる - done
+  - softbank - 番号保管
+    - 当日しか出来ない -> 空港でやる - done
+
+- 新生銀行 - ネットバンキングログイン
+  - 案内の郵送待ち - done
+  - ログインする - done
 
 - 登記書き換え - pending
   - 申請書作成
