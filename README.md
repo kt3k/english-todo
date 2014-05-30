@@ -18,24 +18,13 @@
   - iPod touch + earphone
 
 - 電源類
+  - BF変換 x3
+  - tap x2
 
 - passport
 - SGI certificates
 - itinerary - e-ticket
   - 印刷
-
-## 5/27
-
-- note 買う
-- ボールペン買う
-- お土産(管理事務所向け)買う
-- narita accommodataion 予約
-
-## accommodation
-
-- narita accommodation
-  - expedia
-  - 予約する
 
 ## insurance
 
@@ -61,10 +50,9 @@
 
 ## 自宅整理
 
-- 自宅のポスト封じる
+- 自宅のポストに関して
+  - お菓子買う - done
   - 管理事務所に連絡しに行く
-  - お菓子買う
-  - お菓子持ってく
 
 ## SGI
 
@@ -81,7 +69,8 @@
 
 - paypal 本人確認
   - 住基カードスキャン - done
-  - apply
+  - apply - done
+  - 返信待ち
 
 - 電気ストップ
   - phone call
@@ -103,8 +92,16 @@
 # TODO on Heathrow airport
 
 - To buy prepaid sim of Three.
+- To take Piccadilly line and go to Gree Park
+- To take Jubilee line and go to London Bridge
+- To walk from London Bridge to the house.
 
 # DONE
+
+- note 買う - done
+- ボールペン買う - done
+- お土産(管理事務所向け)買う - done
+- narita accommodataion 予約 - done
 
 - 海外移転届け - done
   - 国分寺市
