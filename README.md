@@ -16,6 +16,8 @@
   - macbook air + AC adaptor
   - iPad mini
   - iPod touch + earphone
+  - experia X10
+  - galaxy nexus
 
 - 電源類
   - BF変換 x3
@@ -25,6 +27,10 @@
 - SGI certificates
 - itinerary - e-ticket
   - 印刷
+
+## 準備
+
+- 小物電子機器系荷造り
 
 ## insurance
 
