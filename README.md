@@ -2,10 +2,6 @@
 
 ## 手荷物準備
 
-### 衣類
-
-- 適当に
-
 ### 衣類以外
 
 - 本
@@ -25,12 +21,8 @@
 
 - passport
 - SGI certificates
-- itinerary - e-ticket
-  - 印刷
-
-## 準備
-
-- 小物電子機器系荷造り
+- e-ticket
+  - 印刷 - done
 
 ## insurance
 
@@ -44,21 +36,7 @@
       - ¥42,570 - ¥60,260 (6ヶ月) (最安は治療100万のみ)
     - 東京海上日動 - http://www.aienu.com/ryu/index%5Ftk.htm
       - ¥53,360 - ¥66,310 (6ヶ月) (最安は治療100万のみ)
-  - 日本興亜の高めの奴？
-
-## 各種挨拶
-
-- 親戚
-  - 名古屋おばさん
-  - 石川おばさん
-
-- 管理事務所の人
-
-## 自宅整理
-
-- 自宅のポストに関して
-  - お菓子買う - done
-  - 管理事務所に連絡しに行く
+  - 空港で決める
 
 ## SGI
 
@@ -72,20 +50,6 @@
   - ログインする
 
 ## Life
-
-- paypal 本人確認
-  - 住基カードスキャン - done
-  - apply - done
-  - 返信待ち
-
-- 電気ストップ
-  - phone call
-
-- ガスストップ
-  - phone call
-
-- 水道ストップ
-  - phone call
 
 - インターネット解約
   - phone call?
@@ -103,6 +67,33 @@
 - To walk from London Bridge to the house.
 
 # DONE
+
+- 自宅のポストに関して - done
+  - お菓子買う - done
+  - 管理事務所に連絡しに行く
+
+- paypal 本人確認 - pending
+  - 住基カードスキャン - done
+  - apply - done
+  - 返信待ち
+  - impossible
+
+- 電気ストップ - done
+  - phone call
+
+- ガスストップ - done
+  - phone call
+
+- 水道ストップ - done
+  - phone call
+
+- 管理事務所の人 - done
+
+- 親戚
+  - 名古屋おばさん - done
+  - 石川おばさん - done
+
+- 小物電子機器系荷造り - done
 
 - note 買う - done
 - ボールペン買う - done
