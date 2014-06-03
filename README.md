@@ -49,20 +49,6 @@
 - e-learning
   - ログインする
 
-## Life
-
-- インターネット解約 - done
-  - フレッツ光ネクスト解約 - done
-    - TODO(12月): 払込書で払う
-    - TODO(12月): ルーターを返送する
-  - plala 契約続行(違約金の方が高いので)
-    - TODO: 2015年1月に解約する。
-
-# TODO on Narita airport
-
-- docomo 番号保管
-- softbank 番号保管
-
 # TODO on Heathrow airport
 
 - To buy prepaid sim of Three.
@@ -70,7 +56,24 @@
 - To take Jubilee line and go to London Bridge
 - To walk from London Bridge to the house.
 
+# TODO on London
+
+- docomo 番号保管
+
+# TODO after returning to Tokyo
+
+- フレッツ光ネクスト
+  - TODO(12月): 払込書で払う
+  - TODO(12月): ルーターを返送する
+- plala 解約
+  - TODO: 2015年1月に解約する。
+
 # DONE
+
+- インターネット解約 - done
+  - フレッツ光ネクスト解約 - done
+
+- softbank 番号保管 - done
 
 - 自宅のポストに関して - done
   - お菓子買う - done
