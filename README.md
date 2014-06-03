@@ -51,8 +51,12 @@
 
 ## Life
 
-- インターネット解約
-  - phone call?
+- インターネット解約 - done
+  - フレッツ光ネクスト解約 - done
+    - TODO(12月): 払込書で払う
+    - TODO(12月): ルーターを返送する
+  - plala 契約続行(違約金の方が高いので)
+    - TODO: 2015年1月に解約する。
 
 # TODO on Narita airport
 
