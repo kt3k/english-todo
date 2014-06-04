@@ -4,39 +4,24 @@
 
 ### 衣類以外
 
-- 本
+- 本 - done
   - grammar in use (1, 2)
-  - nokia photoshop 本
 
-- computers
+- computers - done
   - macbook air + AC adaptor
   - iPad mini
   - iPod touch + earphone
   - experia X10
   - galaxy nexus
 
-- 電源類
-  - BF変換 x3
-  - tap x2
+- 電源類 - done
+  - BF変換 x3 - done
+  - tap x2 - done
 
-- passport
-- SGI certificates
+- passport - done
+- SGI certificates - done
 - e-ticket
   - 印刷 - done
-
-## insurance
-
-- 留学保険
-  - 比較
-    - AIU 海外旅行保険 http://www.aiu.co.jp/travel/price/plan/study-price.html
-      - ¥85,200 - ¥118,830 (6ヶ月)
-    - JI傷害火災 http://www.aienu.com/ryu/index_ji_1y.htm
-      - ¥66,660 - ¥77,890 (6ヶ月)
-    - 日本興亜損保 http://www.aienu.com/ryu/index%5Fkoa.htm
-      - ¥42,570 - ¥60,260 (6ヶ月) (最安は治療100万のみ)
-    - 東京海上日動 - http://www.aienu.com/ryu/index%5Ftk.htm
-      - ¥53,360 - ¥66,310 (6ヶ月) (最安は治療100万のみ)
-  - 空港で決める
 
 ## SGI
 
@@ -69,6 +54,19 @@
   - TODO: 2015年1月に解約する。
 
 # DONE
+
+- 留学保険
+  - 比較
+    - AIU 海外旅行保険 http://www.aiu.co.jp/travel/price/plan/study-price.html
+      - ¥85,200 - ¥118,830 (6ヶ月)
+    - JI傷害火災 http://www.aienu.com/ryu/index_ji_1y.htm
+      - ¥66,660 - ¥77,890 (6ヶ月)
+    - 日本興亜損保 http://www.aienu.com/ryu/index%5Fkoa.htm
+      - ¥42,570 - ¥60,260 (6ヶ月) (最安は治療100万のみ)
+    - 東京海上日動 - http://www.aienu.com/ryu/index%5Ftk.htm
+      - ¥53,360 - ¥66,310 (6ヶ月) (最安は治療100万のみ)
+  - 空港で決める
+    - 三井住友海上 - done
 
 - インターネット解約 - done
   - フレッツ光ネクスト解約 - done
