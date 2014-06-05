@@ -29,17 +29,10 @@
   - 印刷 - done
   - YH - done
   - YC - done
-  - send to SGI
+  - bring to SGI
 
 - e-learning
   - ログインする
-
-# TODO on Heathrow airport
-
-- To buy prepaid sim of Three.
-- To take Piccadilly line and go to Gree Park
-- To take Jubilee line and go to London Bridge
-- To walk from London Bridge to the house.
 
 # TODO on London
 
@@ -54,6 +47,11 @@
   - TODO: 2015年1月に解約する。
 
 # DONE
+
+- To buy prepaid sim of Three. - done
+- To take Piccadilly line and go to Gree Park - done
+- To take Jubilee line and go to London Bridge - done
+- To walk from London Bridge to the house. - done
 
 - 留学保険
   - 比較
