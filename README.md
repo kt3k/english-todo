@@ -31,13 +31,6 @@
   - YC - done
   - bring to SGI
 
-- e-learning
-  - ログインする
-
-# TODO on London
-
-- docomo 番号保管
-
 # TODO after returning to Tokyo
 
 - フレッツ光ネクスト
@@ -47,6 +40,11 @@
   - TODO: 2015年1月に解約する。
 
 # DONE
+
+- SGI e-learning
+  - ログインする - done
+
+- docomo 番号保管 - done
 
 - To buy prepaid sim of Three. - done
 - To take Piccadilly line and go to Gree Park - done
