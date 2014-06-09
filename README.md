@@ -1,8 +1,14 @@
 # TODO
 
-## 手荷物準備
+## TODO after returning to Tokyo
 
-### 衣類以外
+- フレッツ光ネクスト
+  - TODO(12月): 払込書で払う
+  - TODO(12月): ルーターを返送する
+- plala 解約
+  - TODO: 2015年1月に解約する。
+
+# DONE
 
 - 本 - done
   - grammar in use (1, 2)
@@ -23,23 +29,13 @@
 - e-ticket
   - 印刷 - done
 
-## SGI
-
 - 文法テスト
   - 印刷 - done
   - YH - done
   - YC - done
-  - bring to SGI
+  - bring to SGI - done
 
-# TODO after returning to Tokyo
-
-- フレッツ光ネクスト
-  - TODO(12月): 払込書で払う
-  - TODO(12月): ルーターを返送する
-- plala 解約
-  - TODO: 2015年1月に解約する。
-
-# DONE
+- go to school (6/9) - done
 
 - SGI e-learning
   - ログインする - done
