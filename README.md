@@ -1,5 +1,8 @@
 # TODO
 
+- stop visa to send offline mail to me
+- consult mitsui sumitomo kaijo for dental care
+
 ## TODO after returning to Tokyo
 
 - フレッツ光ネクスト
@@ -7,6 +10,8 @@
   - TODO(12月): ルーターを返送する
 - plala 解約
   - TODO: 2015年1月に解約する。
+- apply for the transference of the ownership of the property
+- request for the payment by the employee insurance
 
 # DONE
 
