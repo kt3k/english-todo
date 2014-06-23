@@ -1,7 +1,15 @@
 # TODO
 
 - stop visa to send offline mail to me
+- buy a top-up voucher for 3 mobile network
 - consult mitsui sumitomo kaijo for dental care
+- register for a oyster web account
+  - digital photo
+  - enrolement number from SGI
+  - course start and end dates
+  - a credit card
+  - email address
+- apply for oyster photocard
 
 ## TODO after returning to Tokyo
 
