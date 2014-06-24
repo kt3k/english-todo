@@ -1,7 +1,7 @@
 # TODO
 
 - stop visa to send offline mail to me
-- buy a top-up voucher for 3 mobile network
+- top-up three account
 - consult mitsui sumitomo kaijo for dental care
 - register for a oyster web account
   - digital photo
@@ -22,6 +22,8 @@
 - request for the payment by the employee insurance
 
 # DONE
+
+- buy a top-up voucher for 3 mobile network - done
 
 - 本 - done
   - grammar in use (1, 2)
